@@ -1,0 +1,8 @@
+at 2024-07-21 23:27:41 the site https://alura.com.br was online
+at 2024-07-21 23:27:42 the site https://httpstat.us/random/200 was online
+at 2024-07-21 23:27:42 the site https://httpstat.us/random/500-504 wasn't online
+at 2024-07-21 23:27:42 the site https://finanzero.com.br was online
+at 2024-07-21 23:27:47 the site https://alura.com.br was online
+at 2024-07-21 23:27:48 the site https://httpstat.us/random/200 was online
+at 2024-07-21 23:27:49 the site https://httpstat.us/random/500-504 wasn't online
+at 2024-07-21 23:27:49 the site https://finanzero.com.br was online

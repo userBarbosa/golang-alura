@@ -1,0 +1,4 @@
+https://alura.com.br
+https://httpstat.us/random/200
+https://httpstat.us/random/500-504
+https://finanzero.com.br
