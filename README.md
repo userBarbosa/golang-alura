@@ -14,8 +14,8 @@ Este repositório contém todos os projetos desenvolvidos durante a formação e
 
 - [x] **Podcast:** A linguagem Go – Hipsters #67
 - [x] **Curso:** [Go: a linguagem do Google - 10h](./go_a_linguagem_do_google/)
-- [ ] **Artigo:** Variáveis em Go: como elas funcionam?
-- [ ] **Curso:** Go: Orientação a Objetos - 06h
+- [x] **Artigo:** Variáveis em Go: como elas funcionam?
+- [x] **Curso:** Go: Orientação a Objetos - 06h
 - [ ] **Artigo:** Estruturas básicas de controle com GO
 - [ ] **Artigo:** Golang: trabalhando com datas
 - [ ] **Artigo:** Conversão de tipos com Go

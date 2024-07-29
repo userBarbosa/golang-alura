@@ -26,4 +26,4 @@ Status: Concluído
 ## Certificado
 
 * [Link](https://cursos.alura.com.br/certificate/6ea60abb-6c95-4b01-9c0a-133378eae014)
-* [PDF](./Marcos%20Filipe%20Ribeiro%20Barbosa%20-%20Curso%20Go_%20a%20linguagem%20do%20Google%20-%20Alura.pdf)
+* [PDF](./Marcos%20Filipe%20Ribeiro%20Barbosa%20-%20Course%20Go_%20the%20proggraming%20language%20of%20Google%20-%20Alura.pdf)
