@@ -1,6 +1,6 @@
 package accounts
 
-import "github.com/userbarbosa/golang-alura/orientacao_a_objetos/project/v2/clients"
+import "github.com/userbarbosa/golang-alura/golang-oo/project/v2/clients"
 
 type SavingsAccount struct {
 	Holder                                       clients.Holder

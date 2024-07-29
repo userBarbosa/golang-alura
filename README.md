@@ -22,9 +22,9 @@ Este repositório contém todos os projetos desenvolvidos durante a formação e
 
 ### 2. Aplicações Web e API Rest com Go
 
-- [x] **Curso:** [Go: crie uma aplicação web - 06h](./go-lang-web/)
+- [x] **Curso:** [Go: crie uma aplicação web - 06h](./golang-web/)
 - [ ] **Podcast:** Go e transações financeiras no Bexs – Hipsters On The Road #46
-- [ ] **Curso:** [Go: desenvolvendo uma API Rest - 08h](./go-api-rest/)
+- [ ] **Curso:** [Go: desenvolvendo uma API Rest - 08h](./golang-api-rest//)
 - [ ] **Artigo:** GORM ORM - Mapeamento de objeto relacional em Go
 - [ ] **Podcast:** Go, gRPC e investimentos na Guru – Hipsters On The Road #54
 - [ ] **Curso:** Go e Gin: criando API rest com simplicidade - 06h

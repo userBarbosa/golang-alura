@@ -20,7 +20,6 @@ Status: Concluído
 * Composição e encapsulamento
 * Interface e novo tipo de conta
 
-
 ## Certificado
 
 * [Link](https://cursos.alura.com.br/certificate/d2a78f0e-f992-4b4a-8512-096781800412)
