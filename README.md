@@ -16,15 +16,15 @@ Este repositório contém todos os projetos desenvolvidos durante a formação e
 - [x] **Curso:** [Go: a linguagem do Google - 10h](./golang/)
 - [x] **Artigo:** Variáveis em Go: como elas funcionam?
 - [x] **Curso:** [Go: Orientação a Objetos - 06h](./golang-oo/)
-- [ ] **Artigo:** Estruturas básicas de controle com GO
-- [ ] **Artigo:** Golang: trabalhando com datas
-- [ ] **Artigo:** Conversão de tipos com Go
+- [x] **Artigo:** Estruturas básicas de controle com GO
+- [x] **Artigo:** Golang: trabalhando com datas
+- [x] **Artigo:** Conversão de tipos com Go
 
 ### 2. Aplicações Web e API Rest com Go
 
 - [x] **Curso:** [Go: crie uma aplicação web - 06h](./golang-web/)
-- [ ] **Podcast:** Go e transações financeiras no Bexs – Hipsters On The Road #46
-- [ ] **Curso:** [Go: desenvolvendo uma API Rest - 08h](./golang-api-rest//)
+- [x] **Podcast:** Go e transações financeiras no Bexs – Hipsters On The Road #46
+- [x] **Curso:** [Go: desenvolvendo uma API Rest - 08h](./golang-api-rest//)
 - [ ] **Artigo:** GORM ORM - Mapeamento de objeto relacional em Go
 - [ ] **Podcast:** Go, gRPC e investimentos na Guru – Hipsters On The Road #54
 - [ ] **Curso:** Go e Gin: criando API rest com simplicidade - 06h

@@ -1,8 +1,8 @@
 # Go: a linguagem do Google
 
-Carga Horária: 10h
-Instrutor: Douglas Quintanilha Barbosa
-Status: Concluído
+**Carga Horária:** 10h  
+**Instrutor:** Douglas Quintanilha Barbosa  
+**Status:** Concluído  
 
 ## Objetivos
 

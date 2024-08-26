@@ -1,8 +1,8 @@
 # Go: crie uma aplicação web
 
-Carga Horária: 6h
-Instrutor: Guilherme Lima
-Status: Concluído
+**Carga Horária:** 6h  
+**Instrutor:** Guilherme Lima  
+**Status:** Concluído  
 
 ## Objetivos
 

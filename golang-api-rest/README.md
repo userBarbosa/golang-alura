@@ -1,8 +1,8 @@
 # Go: desenvolvendo uma API Rest
 
-Carga Horária: 8h
-Instrutor: Guilherme Lima
-Status: Concluído
+**Carga Horária:** 8h  
+**Instrutor:** Guilherme Lima  
+**Status:** Concluído  
 
 ## Objetivos
 
