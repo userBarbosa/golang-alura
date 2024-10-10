@@ -1,14 +1,15 @@
 services:
   postgres:
     image: "postgres"
+    container_name: "gin-api-postgresql"
     environment:
       - POSTGRES_USER=$POSTGRES_USER
       - POSTGRES_PASSWORD=$POSTGRES_PASSWORD
       - POSTGRES_DB=$POSTGRES_DB
     ports:
-      - "54320:5432"
+      - $POSTGRES_PORT:$POSTGRES_PORT #"5432:5432"
     volumes:
-      - ./migration/docker-db-initial.sql:/docker-entrypoint-initdb.d/docker-db-initial.sql
+      - ./postgres-data:/var/lib/postgresql/data
     env_file:
       - .env
 
@@ -21,5 +22,4 @@ services:
       - "54321:80"
     depends_on:
       - postgres
-    env_file:
-      - .env
+
